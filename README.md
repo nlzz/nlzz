@@ -1,8 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on: Van-Indo (Logistics & Trip Booking Platform) and Infrastructure and Network Management projects.<br><br>👯 I’m looking to collaborate on: Open source projects involving PHP, Laravel, or Network Automation.<br><br>🤝 I’m looking for help with: Advanced UI/UX practices for web applications.<br><br>🌱 I’m currently learning: Advanced Laravel 11 features and DevSecOps.<br><br>💬 Ask me about: MikroTik, PC Hardware maintenance, or IT Infrastructure.<br><br>⚡ Fun fact: I have experience in automotive aesthetics!
+Hi there! 👋 I'm an IT professional who bridges the gap between solid network infrastructure and efficient software development. Whether I'm configuring advanced routing on a MikroTik, troubleshooting PC hardware, or building modern web applications, I thrive on making systems work seamlessly from the ground up.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natanaelcostaxyz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:natanael.costaxyz@gmail.com) 
+* 🚀 **Currently building:** **Van-Indo**, a logistics and trip booking platform focused on regional mobility.
+* 🛠️ **My Tech Playground:** The PHP/Laravel 11 ecosystem (Livewire, Filament) and IT Infrastructure management.
+* 🌱 **Always leveling up in:** DevSecOps practices and advanced Network Automation.
+* ⚡ **Fun fact:** I have professional experience in automotive aesthetics! Turns out, the meticulous attention to detail required to perfectly polish and protect a car translates surprisingly well to writing clean code and organizing server racks.
+
+## 🌐 Social:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natanaelcostaxyz)
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
