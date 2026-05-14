@@ -23,8 +23,5 @@ Hi there! 👋 I'm an IT professional who bridges the gap between solid network 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nlzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=nlzz&icon=1&color=1)](https://visitcount.itsvg.in)
