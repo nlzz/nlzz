@@ -22,6 +22,3 @@ Hi there! 👋 I'm an IT professional who bridges the gap between solid network 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
----
-[![](https://komarev.com/ghpvc/?username=nlzz&icon=1&color=1)](https://visitcount.itsvg.in)
