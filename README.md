@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! 👋 I'm an IT professional who bridges the gap between solid network infrastructure and efficient software development. Whether I'm configuring advanced routing on a MikroTik, troubleshooting PC hardware, or building modern web applications, I thrive on making systems work seamlessly from the ground up.
 
 * 🚀 **Currently building:** **Van-Indo**, a logistics and trip booking platform focused on regional mobility.
